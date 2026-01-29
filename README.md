@@ -5,7 +5,6 @@
 <title>Sugar Bliss</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-/* බැක්ග්‍රවුන්ඩ් එකට ලස්සන කේක් ඉමේජ් එකක් එක් කළා */
 body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -14,15 +13,13 @@ body {
     color: #333;
 }
 
-/* Header එක තවත් පැහැදිලි වෙන්න වෙනස් කරා */
 header {
     padding: 60px 20px;
     text-align: center;
-    background: rgba(255, 255, 255, 0.85); /* පසුබිම පෙනෙන සේ විනිවිද පෙනෙන ස්වභාවයක් ලබා දුන්නා */
+    background: rgba(255, 255, 255, 0.85);
     border-bottom: 5px solid #f472b6;
 }
 
-/* ඔයා එවපු ලෝගෝ එකට ගැලපෙන විදිහට සකස් කරා */
 header img {
     width: 150px;
     height: 150px;
@@ -49,6 +46,7 @@ section {
     box-shadow: 0 10px 25px rgba(0,0,0,0.1);
     max-width: 500px;
     width: 100%;
+    text-align: center;
 }
 
 button {
